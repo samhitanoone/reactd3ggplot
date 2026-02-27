@@ -8,7 +8,7 @@
     "react": "16.8.6",
     "react-d3-ggplot": "1.2.1",
     "react-dom": "16.8.6",
-    "react-scripts": "2.0.3"
+    "react-scripts": "5.0.1"
   },
   "devDependencies": {},
   "scripts": {
